@@ -35,6 +35,6 @@
       </plugin>
     </plugins>
 
-    <finalName>MymavenWebApp01</finalName>
+    <finalName>MyMavenWebApp4</finalName>
   </build>
 </project>
